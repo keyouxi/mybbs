@@ -1,0 +1,4 @@
+services:
+#    bbs_admin.example:
+#        class: Bbs\AdminBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
